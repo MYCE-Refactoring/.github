@@ -19,3 +19,7 @@ MYCE는 위 MICE의 개념을 기반으로, 박람회를 쉽고 스마트하게 
 - Manage Your Conferences & Expos : 당신의 박람회를 체계적으로 관리하세요.
 - Make Your Conventions Easy: 박람회 운영을 쉽고 스마트하게 만들어보세요.
 ```
+
+## Myce Reafactoring - MSA + Multi-Module 구조 설계
+
+<img width="1541" height="973" alt="ddd drawio (2)" src="https://github.com/user-attachments/assets/d1a6d380-5a3b-45f1-9105-fcb04f90e83e" />
